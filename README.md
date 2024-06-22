@@ -52,3 +52,8 @@ cd game-coin-dapp
 ![Image2](./ss/2.png)
 ![Image3](./ss/3.png)
 ![Image4](./ss/4.png)
+
+## 🏁 Conclusion
+Thank you for exploring the Game Coin DApp! Your feedback and contributions are highly appreciated. 
+
+Happy gaming! ❤️
